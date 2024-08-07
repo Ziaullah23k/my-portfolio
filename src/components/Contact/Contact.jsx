@@ -46,10 +46,7 @@ function Contact() {
               ></i>
 
               <p className="font-weight-bold my-3">Phone number</p>
-
-              <p className="text-muted">
-                +923340709062 <br /> +923239384837
-              </p>
+              <p className="text-muted">+923239384837</p>
             </div>
 
             <div className="col-lg-4 col-md-6 mb-4 mb-md-0">

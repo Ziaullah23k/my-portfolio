@@ -3,7 +3,7 @@ import About_Pic from "../../Assets/zia.png";
 import "./About.css";
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import cv from "../../Assets/irfan.png"
+import cv from "../../Assets/zia-resume.pdf";
 
 //main function
 function AboutSec() {
@@ -68,17 +68,18 @@ function AboutSec() {
                 <p className="font-weight-bold white-text mb-4 about_heading_txt">
                   Hello There, I am{" "}
                   <span className="name_span sami_txt">ZIA ULLAH</span>
-                </p>  
+                </p>
 
                 <p className="text-muted about_description">
-                  As a seasoned Product Designer with over 6 months in the field, I've driven
-                  significant digital transformations, such as scaling a startup from thousands to lack
-                  benchmark and amplifying a design community's growth by 567%. My journey
-                  also includes building design stuffs. Combining creativity with functionality, I
-                  consistently deliver user-centric experiences that yield impactful business
-                  outcomes. With a history of spearheading teams and ventures, I'm committed to
+                  As a seasoned Product Designer with over 6 months in the
+                  field, I've driven significant digital transformations, such
+                  as scaling a startup from thousands to lack benchmark and
+                  amplifying a design community's growth by 567%. My journey
+                  also includes building design stuffs. Combining creativity
+                  with functionality, I consistently deliver user-centric
+                  experiences that yield impactful business outcomes. With a
+                  history of spearheading teams and ventures, I'm committed to
                   championing design excellence and innovation.
-
                 </p>
 
                 <a
